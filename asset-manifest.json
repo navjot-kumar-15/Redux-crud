@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-crud/static/css/main.2fd91909.css",
+    "main.js": "/redux-crud/static/js/main.cd64d9f3.js",
+    "index.html": "/redux-crud/index.html",
+    "main.2fd91909.css.map": "/redux-crud/static/css/main.2fd91909.css.map",
+    "main.cd64d9f3.js.map": "/redux-crud/static/js/main.cd64d9f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd91909.css",
+    "static/js/main.cd64d9f3.js"
+  ]
+}
